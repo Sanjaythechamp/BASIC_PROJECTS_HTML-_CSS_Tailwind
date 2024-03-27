@@ -1,2 +1,2 @@
-# BASIC_PROJECTS_HTML-_CSS_Tailwind
+# BASIC_PROJECTS_HTML-_CSS
 basic projects 
